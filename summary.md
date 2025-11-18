@@ -1,4 +1,4 @@
-#1. The Problem and the Quantum solution
+# The Problem and the Quantum solution
 ## The problem 
 We need random number but normal computers cannot create perfect randomness
 ## The Quantum solution
