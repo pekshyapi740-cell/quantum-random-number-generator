@@ -3,7 +3,7 @@
 We need random number but normal computers cannot create perfect randomness
 ## The Quantum solution
 Quantum mechanics provides natural randomness throgh qubits.
-#2 The code
+# The code
 ## Quantum system
 A quantum system is created by making a circuit with a selected number of qubits. These qubits are connected to classical bits so their final measured values can be read.
 ## Superposition
